@@ -1,0 +1,34 @@
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.csprojAssemblyReference.cache
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\MainWindow.g.cs
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\App.g.cs
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk_MarkupCompile.cache
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk_MarkupCompile.lref
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\bin\DEBUGG\Kolko_krzyzyk.exe.config
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\bin\DEBUGG\Kolko_krzyzyk.exe
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\bin\DEBUGG\Kolko_krzyzyk.pdb
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\MainWindow.baml
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.g.resources
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.Properties.Resources.resources
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.csproj.GenerateResource.cache
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.exe
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.pdb
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\login_screen.g.cs
+C:\Users\MATEUSZ\Desktop\INF v2\Kolko_krzyzyk\Kolko_krzyzyk\obj\Debug\login_screen.baml
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\bin\DEBUGG\Kolko_krzyzyk.exe.config
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\bin\DEBUGG\Kolko_krzyzyk.exe
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\bin\DEBUGG\Kolko_krzyzyk.pdb
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.csprojAssemblyReference.cache
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\login_screen.g.cs
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\MainWindow.g.cs
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\App.g.cs
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk_MarkupCompile.cache
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk_MarkupCompile.lref
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\login_screen.baml
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\MainWindow.baml
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.g.resources
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.Properties.Resources.resources
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.csproj.GenerateResource.cache
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.exe
+C:\Users\SP950810\Desktop\kolko\Kolko_krzyzyk\obj\Debug\Kolko_krzyzyk.pdb
